@@ -10,3 +10,6 @@ https://hackernoon.com/how-to-set-up-godaddy-domain-with-github-pages-a9300366c7
 
 Facebook Developers guide
 https://developers.facebook.com/docs/plugins/page-plugin/
+
+Eng-hindi-basic typing
+http://indiatyping.com/index.php/english-to-hindi-typing
